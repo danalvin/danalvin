@@ -4,8 +4,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sd72wedl9k0n5inyvxvn783a1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-- 🔭 I’m currently working on [![A smart rental management system]](https://github.com/danalvin/Rental)
-- 🌱 I’m currently learning ![Flutter](https://github.com/flutter/flutter)
+- 🔭 I’m currently working on [A smart rental management system](https://github.com/danalvin/Rental)
+- 🌱 I’m currently learning [Flutter](https://github.com/flutter/flutter)
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about Python and Smart Water Meters
 - 📫 How to reach me: [Email](mailto:mungaiwaituika@gmail.com)
