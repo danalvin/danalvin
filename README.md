@@ -12,27 +12,39 @@
   
 <h3 align="center">Proficient Languages and frameworks</h3>
  <p align="center">
-<img  src="https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Flutter-00ADD8?style=for-the-badge&logo=flutter&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=4B8BBE">&nbsp;
-<img  src="https://img.shields.io/badge/dart-E56F08?style=for-the-badge&logo=dart&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/Django-FFE873?style=for-the-badge&logo=Django&logoColor=4B8BBE">&nbsp;
-<img  src="https://img.shields.io/badge/flask-E56F08?style=for-the-badge&logo=flask&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/Nextjs-FFE873?style=for-the-badge&logo=nextjs&logoColor=4B8BBE">&nbsp;
-<img  src="https://img.shields.io/badge/git-E56F08?style=for-the-badge&logo=git&logoColor=white">&nbsp;
+<img  className="m-1" src="https://img.shields.io/badge/Python-FFE873?style=flat&logo=python&logoColor=4B8BBE">&nbsp;
+<img  className="m-1" src="https://img.shields.io/badge/dart-0075BA?style=flat&logo=dart&logoColor=white">&nbsp;
+<img  className="m-1" src="https://img.shields.io/badge/Django-092e20?style=flat&logo=Django&logoColor=white">&nbsp;
+<img  className="m-1" src="https://img.shields.io/badge/flask-646464?style=flat&logo=flask&logoColor=white">&nbsp;
+<img className=" m-1" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=ffffff" alt=" next" />
+<img className=" m-1" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff" alt=" react" />
+<img className="m-1" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt=" flutter" />
+<img className="m-1" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt=" tailwind css" />
+<img src="https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=ffffff" alt=" node.js" className="m-1" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt=" jquery" className="m-1" />
+<img className="m-1" src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt=" redux" />
+<img className="m-1" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt=" javascript" />
+<img className="m-1" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt=" c++" />
+<img className="m-1" src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff" alt=" python" />
+<img className="m-1" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt=" dart" />
+<a href="https://www.google.com/search?q=is+html+a+language%3F" target="_blank" rel="noreferrer">
+<img title="yes it's a language!" className="m-1" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff" alt=" HTML" /></a>
+<img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff" alt=" SASS" className="m-1" />
+<img src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff" alt=" git" className="m-1" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=ffffff" alt=" firebase" className="m-1" />
 </p>
 
   
 <h3 align="center">Connect with me</h3>
 <p align="center">
  <a href="https://www.linkedin.com/in/danmungaiwaituika/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
  <a href="https://twitter.com/slow_bandit">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
  <a href="https://mungaiwaituika.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-URL-1e87f0?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-URL-1e87f0?style=flat&logo=google-chrome&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
