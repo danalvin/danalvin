@@ -12,7 +12,7 @@
 - 💬 Ask me about Python and Smart Water Meters
 - 📫 How to reach me: [Email](mailto:mungaiwaituika@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can Play  Guiotar and Piano
+- ⚡ Fun fact: I can Play  Guitar and Piano
 
 <!--
 **danalvin/danalvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
