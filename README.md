@@ -6,7 +6,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sd72wedl9k0n5inyvxvn783a1&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-- 🔭 I’m currently working on [A smart rental management system](https://github.com/danalvin/Rental)
 - 🌱 I’m currently learning [Flutter](https://github.com/flutter/flutter)
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about Python and Smart Water Meters
