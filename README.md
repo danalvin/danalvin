@@ -5,7 +5,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sd72wedl9k0n5inyvxvn783a1&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danalvin&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danalvin&hide_progress=false&theme=dark)
 - 🌱 I’m currently learning [Flutter](https://github.com/flutter/flutter)
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about Python and Smart Water Meters
