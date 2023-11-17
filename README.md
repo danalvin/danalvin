@@ -9,6 +9,13 @@
 - 📫 How to reach me: [mungaiwaituika@gmail.com](mailto:mungaiwaituika@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can play the guitar and piano.
+
+<h3 align="center">Overall wakatime Stats</h3>
+  <p align="center">
+    <a href="https://wakatime.com/@dfaedd26-5046-4c43-b1d9-5d160ac678e8">
+      <img src="https://wakatime.com/badge/user/dfaedd26-5046-4c43-b1d9-5d160ac678e8.svg" alt="Total time coded since Jun 25 2019" /></a>
+  </p>
+
   
 <h3 align="center">Proficient Languages and frameworks</h3>
  <p align="center">
@@ -57,9 +64,9 @@
  </p>
 <h3 align="center">Im Currently listening to - Spotify 🎧</h3>
 
-
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=sd72wedl9k0n5inyvxvn783a1&redirect=true">
     <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=sd72wedl9k0n5inyvxvn783a1&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
   </a>
 </p>
+
