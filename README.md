@@ -62,11 +62,5 @@
     </br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danalvin&hide_progress=false&theme=dark&hide_border=true" alt="Top Languages" height="165" />
  </p>
-<h3 align="center">Im Currently listening to - Spotify 🎧</h3>
 
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=sd72wedl9k0n5inyvxvn783a1&redirect=true">
-    <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=sd72wedl9k0n5inyvxvn783a1&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-  </a>
-</p>
 
